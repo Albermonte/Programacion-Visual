@@ -1,0 +1,13 @@
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica1.RelojAnalogico.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica1.RelojDigital.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica1.AcecaDe.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\bin\Debug\Practica2.exe.config
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\bin\Debug\Practica2.exe
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\bin\Debug\Practica2.pdb
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica2.exe
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 2\Practica2\Practica1\obj\Debug\Practica2.pdb

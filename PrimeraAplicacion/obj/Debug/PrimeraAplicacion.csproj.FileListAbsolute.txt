@@ -1,0 +1,11 @@
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe.config
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.pdb
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.Form1.resources
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.Properties.Resources.resources
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe
+C:\Users\alber\Desktop\Programación Visual\Prácticas\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.pdb
