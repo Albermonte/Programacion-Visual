@@ -1,0 +1,14 @@
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica3.csproj.AssemblyReference.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica1.RelojAnalogico.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica1.RelojDigital.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica1.AcecaDe.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica3.Properties.Resources.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica3.csproj.GenerateResource.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\bin\Debug\Practica3.exe.config
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\bin\Debug\Practica3.exe
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\bin\Debug\Practica3.pdb
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica3.exe
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica3.pdb
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 3\Practica3\Practica1\obj\Debug\Practica3.DlgDatosZona.resources
