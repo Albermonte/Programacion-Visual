@@ -275,6 +275,7 @@ namespace Practica1
             if (DlgEliminarZona.ShowDialog(this) == DialogResult.OK)
             {
                 m_Zonas.RemoveAt(DlgEliminarZona.ZonaSeleccionada);
+                menúContextoZona.Items.RemoveAt(DlgEliminarZona.ZonaSeleccionada + 3);
             }
         }
 

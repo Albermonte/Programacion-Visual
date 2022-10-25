@@ -72,10 +72,7 @@ namespace Practica3
                     }
                 );
             ct_DiffHora.Text = zonaSeleccionada.Diferencia.ToString();
-            if (zonaSeleccionada.Positivo)
-                ct_Signo.Text = "Positivo";
-            else
-                ct_Signo.Text = "Negativo";
+            ct_Signo.Text = zonaSeleccionada.Positivo ? "Positivo": "Negativo";
         }
     }
 }
