@@ -1,0 +1,13 @@
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\bin\Debug\pr5.exe.config
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\bin\Debug\pr5.exe
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\bin\Debug\pr5.pdb
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\Practica5.csproj.AssemblyReference.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\Practica5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\pr5.AboutBox.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\pr5.VisorImágenes.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\pr5.Properties.Resources.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\pr5.VentanaHija.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\Practica5.csproj.GenerateResource.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\pr5.exe
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 5\Practica5\obj\Debug\pr5.pdb
