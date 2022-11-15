@@ -243,6 +243,7 @@ namespace Practica_6
         {
             PararHiloA();
             PararHiloB();
+            /*
             if (m_ParadoHiloA.WaitOne(0))
             {
                 MessageBox.Show("HiloA ha sido parado", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -251,14 +252,17 @@ namespace Practica_6
             {
                 MessageBox.Show("HiloB ha sido parado", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
+            */
 
-            m_ParadoHiloA.Reset();
             m_PararHiloA.Reset();
-            m_ParadoHiloB.Reset();
+            m_ParadoHiloA.Reset();
             m_PararHiloB.Reset();
+            m_ParadoHiloB.Reset();
 
-            m_HiloA = null;
-            m_HiloB = null;
+            MessageBox.Show("Hilos Parados");
+
+            ActualizarBotonIniciar();
+            ActualizarCtVelocidad();
         }
 
         private void acercaDeMenu_Click_1(object sender, EventArgs e)

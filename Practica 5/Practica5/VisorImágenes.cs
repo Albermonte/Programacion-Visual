@@ -100,11 +100,13 @@ namespace pr5
 
             // Usamos el método FromStream de la clase Image para crear una "imagen" a partir del flujo anterior
             // Creamos una nueva ventana hija con el método NuevaHija, pasándole como título el nombre del archivo abierto      
-            NuevaHija(fileName);                                                                                  // Llamamos a NuevaHija para crear una nueva ventana                                                                              
+            // Llamamos a NuevaHija para crear una nueva ventana                                                                              
+            NuevaHija(fileName);                                                                                  
 
             // Obtenemos una referencia a la nueva ventana mediante la propiedad HijaActiva
             // Asignados "imagen" al pictureBox de la nueva ventana
-            HijaActiva.PictureBox.Image = Image.FromStream(stream);                                         // Y ponemos la imágen abierta en la nueva ventana creada
+            // Y ponemos la imágen abierta en la nueva ventana creada
+            HijaActiva.PictureBox.Image = Image.FromStream(stream);                                         
             HijaActiva.MdiParent = this;
             //HijaActiva.PictureBox.Image = Image.FromFile(fileName);
         }
