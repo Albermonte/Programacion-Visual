@@ -49,17 +49,20 @@
             // 
             this.bp_Progreso.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.bp_Progreso.Location = new System.Drawing.Point(12, 240);
+            this.bp_Progreso.Location = new System.Drawing.Point(24, 462);
+            this.bp_Progreso.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.bp_Progreso.Name = "bp_Progreso";
-            this.bp_Progreso.Size = new System.Drawing.Size(310, 30);
+            this.bp_Progreso.Size = new System.Drawing.Size(620, 58);
+            this.bp_Progreso.Step = 1;
             this.bp_Progreso.TabIndex = 0;
             // 
             // bt_Mostrar
             // 
             this.bt_Mostrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.bt_Mostrar.Location = new System.Drawing.Point(12, 276);
+            this.bt_Mostrar.Location = new System.Drawing.Point(24, 531);
+            this.bt_Mostrar.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.bt_Mostrar.Name = "bt_Mostrar";
-            this.bt_Mostrar.Size = new System.Drawing.Size(147, 23);
+            this.bt_Mostrar.Size = new System.Drawing.Size(294, 44);
             this.bt_Mostrar.TabIndex = 1;
             this.bt_Mostrar.Text = "Ocultar Imagen";
             this.bt_Mostrar.UseVisualStyleBackColor = true;
@@ -68,9 +71,10 @@
             // bt_Iniciar
             // 
             this.bt_Iniciar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.bt_Iniciar.Location = new System.Drawing.Point(175, 276);
+            this.bt_Iniciar.Location = new System.Drawing.Point(350, 531);
+            this.bt_Iniciar.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.bt_Iniciar.Name = "bt_Iniciar";
-            this.bt_Iniciar.Size = new System.Drawing.Size(147, 23);
+            this.bt_Iniciar.Size = new System.Drawing.Size(294, 44);
             this.bt_Iniciar.TabIndex = 2;
             this.bt_Iniciar.Text = "Iniciar";
             this.bt_Iniciar.UseVisualStyleBackColor = true;
@@ -80,9 +84,10 @@
             // 
             this.et_Velocidad.AutoSize = true;
             this.et_Velocidad.Font = new System.Drawing.Font("MS Reference Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.et_Velocidad.Location = new System.Drawing.Point(39, 318);
+            this.et_Velocidad.Location = new System.Drawing.Point(78, 612);
+            this.et_Velocidad.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.et_Velocidad.Name = "et_Velocidad";
-            this.et_Velocidad.Size = new System.Drawing.Size(91, 19);
+            this.et_Velocidad.Size = new System.Drawing.Size(189, 38);
             this.et_Velocidad.TabIndex = 4;
             this.et_Velocidad.Text = "Velocidad: ";
             // 
@@ -94,14 +99,15 @@
             0,
             0,
             0});
-            this.ct_Velocidad.Location = new System.Drawing.Point(175, 317);
+            this.ct_Velocidad.Location = new System.Drawing.Point(350, 610);
+            this.ct_Velocidad.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.ct_Velocidad.Maximum = new decimal(new int[] {
             10000000,
             0,
             0,
             0});
             this.ct_Velocidad.Name = "ct_Velocidad";
-            this.ct_Velocidad.Size = new System.Drawing.Size(147, 20);
+            this.ct_Velocidad.Size = new System.Drawing.Size(294, 31);
             this.ct_Velocidad.TabIndex = 5;
             this.ct_Velocidad.Value = new decimal(new int[] {
             1000000,
@@ -112,12 +118,14 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(32, 32);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.archivoMenu,
             this.ayudaMenu});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(334, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(668, 44);
             this.menuStrip1.TabIndex = 6;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -127,20 +135,20 @@
             this.detenerMenu,
             this.salirMenu});
             this.archivoMenu.Name = "archivoMenu";
-            this.archivoMenu.Size = new System.Drawing.Size(60, 20);
+            this.archivoMenu.Size = new System.Drawing.Size(114, 36);
             this.archivoMenu.Text = "Archivo";
             // 
             // detenerMenu
             // 
             this.detenerMenu.Name = "detenerMenu";
-            this.detenerMenu.Size = new System.Drawing.Size(180, 22);
+            this.detenerMenu.Size = new System.Drawing.Size(233, 44);
             this.detenerMenu.Text = "Detener";
             this.detenerMenu.Click += new System.EventHandler(this.DetenerMenu_Click);
             // 
             // salirMenu
             // 
             this.salirMenu.Name = "salirMenu";
-            this.salirMenu.Size = new System.Drawing.Size(180, 22);
+            this.salirMenu.Size = new System.Drawing.Size(233, 44);
             this.salirMenu.Text = "&Salir";
             this.salirMenu.Click += new System.EventHandler(this.SalirMenu_Click);
             // 
@@ -149,32 +157,33 @@
             this.ayudaMenu.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.acercaDeMenu});
             this.ayudaMenu.Name = "ayudaMenu";
-            this.ayudaMenu.Size = new System.Drawing.Size(53, 20);
+            this.ayudaMenu.Size = new System.Drawing.Size(101, 36);
             this.ayudaMenu.Text = "Ayuda";
             // 
             // acercaDeMenu
             // 
             this.acercaDeMenu.Name = "acercaDeMenu";
-            this.acercaDeMenu.Size = new System.Drawing.Size(180, 22);
+            this.acercaDeMenu.Size = new System.Drawing.Size(254, 44);
             this.acercaDeMenu.Text = "Acerca De";
             this.acercaDeMenu.Click += new System.EventHandler(this.acercaDeMenu_Click_1);
             // 
             // pb_Imagen
             // 
             this.pb_Imagen.InitialImage = null;
-            this.pb_Imagen.Location = new System.Drawing.Point(12, 34);
+            this.pb_Imagen.Location = new System.Drawing.Point(24, 65);
+            this.pb_Imagen.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.pb_Imagen.Name = "pb_Imagen";
-            this.pb_Imagen.Size = new System.Drawing.Size(310, 200);
+            this.pb_Imagen.Size = new System.Drawing.Size(620, 385);
             this.pb_Imagen.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pb_Imagen.TabIndex = 3;
             this.pb_Imagen.TabStop = false;
             // 
             // Hilos
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(334, 361);
+            this.ClientSize = new System.Drawing.Size(668, 694);
             this.Controls.Add(this.ct_Velocidad);
             this.Controls.Add(this.et_Velocidad);
             this.Controls.Add(this.pb_Imagen);
@@ -183,6 +192,7 @@
             this.Controls.Add(this.bp_Progreso);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Hilos";

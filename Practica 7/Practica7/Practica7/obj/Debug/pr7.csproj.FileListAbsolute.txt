@@ -1,0 +1,16 @@
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\bin\Debug\bd_famosos.mdf
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\bin\Debug\bd_famosos_log.ldf
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\bin\Debug\Practica7.exe.config
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\bin\Debug\Practica7.exe
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\bin\Debug\BDFamosos.dll
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\bin\Debug\BDFamosos.pdb
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\obj\Debug\pr7.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\obj\Debug\Practica7.ElementoLista.resources
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\obj\Debug\Practica7.Form1.resources
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\obj\Debug\Practica7.Properties.Resources.resources
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\obj\Debug\pr7.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\obj\Debug\pr7.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\obj\Debug\pr7.csproj.CopyComplete
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\obj\Debug\Practica7.exe
+C:\Users\victo\OneDrive\Escritorio\ProgramaciónVisual\pr7\Practica7\obj\Debug\Practica7.pdb

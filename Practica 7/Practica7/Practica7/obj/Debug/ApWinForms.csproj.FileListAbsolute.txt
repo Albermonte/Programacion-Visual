@@ -1,0 +1,17 @@
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\bin\Debug\bd_famosos.mdf
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\bin\Debug\bd_famosos_log.ldf
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\bin\Debug\Practica7.exe.config
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\bin\Debug\BDFamosos.dll
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\bin\Debug\BDFamosos.pdb
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\ApWinForms.csproj.AssemblyReference.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\ApWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\Practica7.ElementoLista.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\Practica7.Form1.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\Practica7.Properties.Resources.resources
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\ApWinForms.csproj.GenerateResource.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\ApWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\ApWinForms.csproj.CopyComplete
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\Practica7\obj\Debug\Practica7.pdb

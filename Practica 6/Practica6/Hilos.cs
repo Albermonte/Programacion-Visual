@@ -81,7 +81,7 @@ namespace Practica_6
             // Incrementar m_Indice
             m_Indice++;
 
-            if (m_Indice == bp_Progreso.Maximum)
+            if (m_Indice >= bp_Progreso.Maximum)
             {
                 ActualizarBotonIniciar();   // bp_Progreso.Enabled = true;
                 ActualizarCtVelocidad();    // ct_Velocidad.Enabled = true;
