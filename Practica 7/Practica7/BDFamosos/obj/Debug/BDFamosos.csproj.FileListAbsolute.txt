@@ -31,3 +31,11 @@ C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Práctica
 C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\obj\Debug\BDFamosos.csproj.CoreCompileInputs.cache
 C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\obj\Debug\BDFamosos.dll
 C:\Users\Alberto\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\obj\Debug\BDFamosos.pdb
+C:\Users\alber\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\bin\Debug\bd_famosos.mdf
+C:\Users\alber\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\bin\Debug\bd_famosos_log.ldf
+C:\Users\alber\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\bin\Debug\BDFamosos.dll
+C:\Users\alber\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\bin\Debug\BDFamosos.pdb
+C:\Users\alber\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\obj\Debug\BDFamosos.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\obj\Debug\BDFamosos.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\obj\Debug\BDFamosos.dll
+C:\Users\alber\OneDrive - Universidad de Alcala\Programación Visual\Prácticas\Practica 7\Practica7\BDFamosos\obj\Debug\BDFamosos.pdb
